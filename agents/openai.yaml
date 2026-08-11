@@ -1,4 +1,4 @@
 interface:
   display_name: "Steam / Nexus Mod 安装"
-  short_description: "研究、筛选并安全安装 Steam 与 Nexus Mods"
-  default_prompt: "Use $install-steam-nexus-mods to research or safely install Nexus Mods for my Steam game, checking current versions, replacement slots, dependencies, conflicts, backups, verification, and rollback."
+  short_description: "核对游戏版本、文件变体、DLC 与加载器后安全安装 MOD"
+  default_prompt: "Use $install-steam-nexus-mods to safely research or install Nexus Mods for my Steam game, reconciling downloaded variants, DLC ownership, exact loader builds, patch compatibility, backups, verification, and rollback."
